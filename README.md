@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ak-tm
 - 👀 I’m interested in Backend Development and DevOps
-- 🌱 I’m currently learning what ever I can
+- 🌱 I’m currently learning whatever I can
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @ak-tm
 
